@@ -3,7 +3,7 @@
 - Second-year PhD student in Information Engineering @University of Pisa, Italy
 
 ### My coding contributions
-- Repository [(Un)conditional Denoising Diffusion Probabilistic Models](https://github.com/gianlucarloni/diffusion_models_prostatePICAI): implementation of DDPMs in PyTorch for genereting synthetic medical images of prostate cancer patients. I am developing both unconditional and conditional (classifier-free guidance) generation. Work in progress.
+- Repository [(Un)conditional Denoising Diffusion Probabilistic Models](https://github.com/gianlucarloni/diffusion_models_prostatePICAI): implementation of DDPMs in PyTorch for generating synthetic medical images of prostate cancer patients. I am developing both unconditional and conditional (classifier-free guidance) generation. Work in progress.
 - Repository [ProtoPNet](https://github.com/andreaberti11235/ProtoPNet), with [@andreaberti11235](https://github.com/andreaberti11235): we investigate the application of prototypical part learning to the medical imaging field. In particular, mammographic images are used. The clinical question is to determine the malignancy of breast masses, and the goal is to assess that using Deep Learning methods, without an invasive biopsy, which still remains the gold standard today
 - Repository [dataset_utils_scripts](https://github.com/gianlucarloni/dataset_utils_scripts), with [@andreaberti11235](https://github.com/andreaberti11235): useful scripts for deep learning pipelines with digital images. Includes: stratified group splitting for dataset preparation, code for early stopping in neural networks' training, image resize and histogram of dimensions, scripts for reading DICOM/NIFTI files and convert them in PNG images, pipelines for Data Augmentation, etc
 
