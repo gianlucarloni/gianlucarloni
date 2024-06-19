@@ -1,5 +1,9 @@
 # Hi! I am Gianluca
 
+:point_right: [About me]()
+
+:point_right:[Coding contributions](https://github.com/gianlucarloni#some-of-my-coding-contributions)
+
 ## Biomedical engineer (MSc and BSc) working on AI for Medical Imaging applications
 - Graduate **research fellow** at the National Research Council (CNR) in Pisa, Italy (Sep 2021 - Ongoing)
 - Last-year **PhD student** in Information Engineering at the University of Pisa (Nov 2021 - Ongoing).
