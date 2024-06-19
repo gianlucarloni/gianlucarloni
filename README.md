@@ -1,7 +1,8 @@
 ## Hi! I am Gianluca
-### Biomedical engineer working on AI for medical imaging applications
-- Graduate **research fellow** at the National Research Council (CNR) in Pisa, Italy
-- **PhD student** in Information Engineering at the University of Pisa. Project: _“Boosting deep learning with causality: insights on medical imaging”_.
+### Biomedical engineer working on AI for Medical Imaging applications
+- Graduate **research fellow** at the National Research Council (CNR) in Pisa, Italy (Sep 2021 - Ongoing)
+- Last-year **PhD student** in Information Engineering at the University of Pisa (Nov 2021 - Ongoing).
+  Project: _“Boosting deep learning with causality: insights on medical imaging”_.
 - My current interests and expertise span **out-of-distribution** robustness, domain **generalization**, and **explainability** through **causal reasoning**, feature **disentanglement** and **contrastive learning**.
 
 ### Some of my coding contributions 
