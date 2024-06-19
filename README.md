@@ -1,7 +1,8 @@
-## Hi! I am Gianluca, a biomedical engineer working on AI/DL for bmedical imaging applications
+## Hi! I am Gianluca
+### Biomedical engineer working on AI for medical imaging applications
 - Graduate Research Fellow at the National Research Council (CNR) in Pisa, Italy
 - PhD student in Information Engineering at the University of Pisa. Project: _“Boosting deep learning with causality: insights on medical imaging”_.
-- Some of my current interests span feature disentanglement, causal representation learning, and model robustness through causality.
+- My current interests and expertise span out-of-distribution robustness, domain generalization, and explainability through causal reasoning, feature disentanglement and conrastive learning.
 
 ### Some of my coding contributions 
 - [CMRxReconChallenge](https://github.com/VIOS-Group/CMRxReconChallenge): A group project together with other PhD students to respond to the **MICCAI 2023** challenge https://cmrxrecon.github.io/ regarding cardiac cine MR reconstruction. It was so nice to code all together! Additional contributions [here](https://github.com/VIOS-Group/CMRxRecon_Edipo_Inference) and [here](https://github.com/vios-s/CMRxRECON_Challenge_EDIPO). You can read our paper [Cine cardiac MRI reconstruction using a convolutional recurrent network with refinement](https://arxiv.org/abs/2309.13385) to discover how we performed in the MICCAI STACOM workshop 2023.
