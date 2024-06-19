@@ -1,6 +1,6 @@
 # Hi! I am Gianluca
 
-:point_right: [About me]()
+:point_right:[About me](https://github.com/gianlucarloni/gianlucarloni/blob/main/README.md#biomedical-engineer-msc-and-bsc-working-on-ai-for-medical-imaging-applications)
 
 :point_right:[Coding contributions](https://github.com/gianlucarloni#some-of-my-coding-contributions)
 
