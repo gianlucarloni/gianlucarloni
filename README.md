@@ -1,5 +1,5 @@
 ## Hi! I am Gianluca
-### Biomedical engineer working on AI for Medical Imaging applications
+### Biomedical engineer (MSc and BSc) working on AI for Medical Imaging applications
 - Graduate **research fellow** at the National Research Council (CNR) in Pisa, Italy (Sep 2021 - Ongoing)
 - Last-year **PhD student** in Information Engineering at the University of Pisa (Nov 2021 - Ongoing).
   Project: _“Boosting deep learning with causality: insights on medical imaging”_.
