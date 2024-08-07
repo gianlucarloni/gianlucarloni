@@ -12,21 +12,27 @@
 
 ### Recent research activity in Deep Learning, Biomedical Imaging, Computer Vision and AI
 
-- Proposed methods based on causal inference to foster DL models’ robustness to domain shift via Transformer/Conv. feature disentanglement, contrastive learning, and injection of prior knowledge. Applied to lung anomalies classification from large chest X-ray datasets.
-- Investigated techniques to discover causal disposition signals in images via Attention-inspired CNNs for cancer prediction from medical imaging (prostate T2w-MRI and digital pathology).
-- Proposed biologically inspired DL networks for image classification akin to human vision.
+- Proposed methods based on causal inference to foster deep learning models’ robustness to domain shift bias (out-of-distribution and domain generalization) via causal/spurious feature disentanglement, contrastive learning modules, and injection of prior knowledge. Applied to the classification of lung anomalies from large real-word-data chest X-ray datasets.  
+- Investigated techniques to discover causal disposition signals in images via Attention-inspired convolutional neural networks for cancer prediction from medical imaging (prostate MRI and H&E-stained digital pathology).
+- Proposed biologically inspired context-aware image recognition networks akin to human vision.
 - Experienced with DDPMs (generative AI) to synthesize MRI images of prostate cancer.
 - Led a systematic literature review to study the intersection of causality and Explainable AI.
-- Conducted multivar analyses on clinical, biophysical, optical, and MRI data for Alzheimer's.
+- Explored the applicability of prototypical part learning in medical imaging by experimenting with ProtoPNet on a breast masses classification from mammogram images.
+- Conducted multivar analyses on clinical, biophysical, proteomic and optical data for Alzheimer's disease.
 
 ### Technical skills
 
-**Programming**: Python, Bash, MATLAB, Java, Android, SQL. **Python libraries**: PyTorch, CUDA, Scikit-learn, Pandas, NumPy, OpenCV, Biopython, PyDicom. **Tools**: Git version control, Docker, SLURM-based large-scale HPC, NVIDIA DGX, DICOM/NIFTI formats.
+Machine learning & Deep learning | Computer Vision | Medical Image Analysis | Distributed computing
+
+**Programming**: Python, Linux shell scripting & Bash, MATLAB, Java, Android, SQL.
+
+**Python libraries**: PyTorch, CUDA, Scikit-learn, Pandas, NumPy, OpenCV, Biopython, PyDicom.
+
+**Tools**: Git version control, Docker, SLURM-based large-scale HPC, NVIDIA DGX, DICOM/NIFTI formats.
 
 ### Publications
 
-You can find my published research works on my [Google Scholar](https://scholar.google.com/citations?hl=it&user=b4-Ad-kAAAAJ&view_op=list_works&sortby=pubdate) profile.
-
+You can find my published research on my [Google Scholar](https://scholar.google.com/citations?hl=it&user=b4-Ad-kAAAAJ&view_op=list_works&sortby=pubdate) profile.
 
 ## Some of my coding contributions 
 
