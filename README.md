@@ -5,7 +5,8 @@
 :point_right:[Coding contributions](https://github.com/gianlucarloni#some-of-my-coding-contributions)
 
 ## Biomedical engineer working on AI for Medical Imaging applications
-- Graduate **research fellow** at the National Research Council (CNR) in Pisa, Italy (Sep 2021 - Ongoing)
+- **Applied Research Scientist** at [Lunit Inc.](https://www.lunit.io/en), working from Berlin, Germany (Nov 2024 - ongoing).
+- Graduate **Research Fellow** at the National Research Council (CNR) in Pisa, Italy (Sep 2021 - Nov 2024).
 - Last-year **PhD student** in Information Engineering at the University of Pisa (Nov 2021 - Ongoing).
   Project: _“Boosting deep learning with causality: insights on medical imaging”_.
 - My current interests and expertise span **out-of-distribution** robustness, domain **generalization**, and **explainability** through **causal reasoning**, feature **disentanglement** and **contrastive learning**.
