@@ -118,9 +118,7 @@ Thesis: “Development of a Graphical User Interface in MATLAB for the visualiza
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  [gianlucarloni](https://github-readme-stats.vercel.app/api?username=gianlucarloni&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-</div>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gianlucarloni&theme=merko&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/gianlucarloni/github-readme-stats)
 
 ---
 
