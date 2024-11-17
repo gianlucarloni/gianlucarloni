@@ -104,6 +104,8 @@ Thesis: “Development of a Graphical User Interface in MATLAB for the visualiza
 
 ## 🌟 Notable Projects during my PhD on AI for Medical Imaging
 
+to do 
+
 1. **[Project Name 1](Link to GitHub Repo)**  
    *Short description of the project and technologies used.*  
    🚀 Features: [Key Features]  
@@ -124,9 +126,7 @@ Thesis: “Development of a Graphical User Interface in MATLAB for the visualiza
 
 ## 📞 Connect With Me
 
-<div align="center">
-  [LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianluca-carloni/)  
-</div>
+[LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianluca-carloni/)  
 
 ---
 
@@ -135,33 +135,3 @@ Thesis: “Development of a Graphical User Interface in MATLAB for the visualiza
 When I’m not coding, I’m into photography, cooking, rock music, and exploring the outdoors. Here’s a peek at my stuff:  
 - [📷 My photographic footprint (Instagram)](https://www.instagram.com/gianlucarloniphoto/)
 - [🎧 My pop/rock playlist (Spotify)](https://open.spotify.com/playlist/1GML09OTvU2oOq686ZgV7O?si=Uh_M4HWAR0u0nrxIwjtCEQ)
-
-
----
-
-<style>
-  body {
-    background-color: #fafafa;
-    font-family: Arial, sans-serif;
-  }
-  h1, h2, h3 {
-    color: #333;
-  }
-  h1 {
-    text-align: center;
-    font-size: 3em;
-  }
-  p {
-    font-size: 1.1em;
-    color: #555;
-    line-height: 1.5em;
-  }
-  .highlight {
-    color: #0073e6;
-  }
-  .tech-stack img {
-    margin: 5px;
-    border-radius: 5px;
-  }
-</style>
-
