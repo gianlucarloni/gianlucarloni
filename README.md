@@ -1,54 +1,169 @@
-# Hi! I am Gianluca
+# Welcome to My GitHub Profile 👋
 
-:point_right:[About me](https://github.com/gianlucarloni/gianlucarloni/blob/main/README.md#biomedical-engineer-msc-and-bsc-working-on-ai-for-medical-imaging-applications)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/banner.jpg" alt="Banner Image" width="100%" />
+</div>
 
-:point_right:[Coding contributions](https://github.com/gianlucarloni#some-of-my-coding-contributions)
+## 🚀 About Me
 
-## Biomedical engineer working on AI for Medical Imaging applications
-- **Applied Research Scientist** at [Lunit Inc.](https://www.lunit.io/en), working from Berlin, Germany (Nov 2024 - ongoing).
-- Graduate **Research Fellow** at the National Research Council (CNR) in Pisa, Italy (Sep 2021 - Nov 2024).
-- Last-year **PhD student** in Information Engineering at the University of Pisa (Nov 2021 - Ongoing).
-  Project: _“Boosting deep learning with causality: insights on medical imaging”_.
-- My current interests and expertise span **out-of-distribution** robustness, domain **generalization**, and **explainability** through **causal reasoning**, feature **disentanglement** and **contrastive learning**.
+Hi there! I'm **Gianluca**, a passionate Research Scientist involved in **conquering cancer through AI**
 
-### Recent research activity in Deep Learning, Biomedical Imaging, Computer Vision and AI
+---
 
-- Proposed methods based on causal inference to foster deep learning models’ robustness to domain shift bias (out-of-distribution and domain generalization) via causal/spurious feature disentanglement, contrastive learning modules, and injection of prior knowledge. Applied to the classification of lung anomalies from large real-word-data chest X-ray datasets.  
-- Investigated techniques to discover causal disposition signals in images via Attention-inspired convolutional neural networks for cancer prediction from medical imaging (prostate MRI and H&E-stained digital pathology).
-- Proposed biologically inspired context-aware image recognition networks akin to human vision.
-- Experienced with DDPMs (generative AI) to synthesize MRI images of prostate cancer.
-- Led a systematic literature review to study the intersection of causality and Explainable AI.
-- Explored the applicability of prototypical part learning in medical imaging by experimenting with ProtoPNet on a breast masses classification from mammogram images.
-- Conducted multivar analyses on clinical, biophysical, proteomic and optical data for Alzheimer's disease.
+## 💼 Career Highlights
 
-### Technical skills
+### **Applied Research Scientist at Lunit Inc. :large_blue_circle: :large_blue_circle:**  
+*Nov 2024 - Present*  
+**Berlin, Germany**
 
-Machine learning & Deep learning | Computer Vision | Medical Image Analysis | Distributed computing
+In the Model-Centric AI research team of the Oncology group, I have been:
+- :x_ray: Developing AI models to advance the suit of Lunit´s products and the SOTA in medical image analysis.
+- :computer: Contributing to the internal research codebases with high-quality code and development standards.
+- :handshake: Collaborating with research engineers and medical doctors for practical medical applications.
+- :newspaper: Pushing Lunit's technological advancement and publishing in top-tier journals and conferences
 
-**Programming**: Python, Linux shell scripting & Bash, MATLAB, Java, Android, SQL.
+### **Research Fellow and PhD Student at National Research Council of Italy**  
+*Sep 2021 - Oct 2024*  
+**Pisa, Italy**
 
-**Python libraries**: PyTorch, CUDA, Scikit-learn, Pandas, NumPy, OpenCV, Biopython, PyDicom.
+In the Signals and Images Laboratory, I have:
+- :arrow_double_up: Proposed bias-mitigation frameworks for robust DL image classification in out-of-distribution settings under domain shift. Based on causal inference, feature disentanglement, contrastive learning, and injection of prior knowledge. Applied to large RWD CXR datasets.  
+- :mag: Investigated techniques to discover causal disposition signals in images via Attention-inspired CNNs for cancer prediction from medical imaging (prostate MRI and HE digital pathology).
+- :brain: Proposed biologically inspired context-aware image classifiers akin to human vision.
+- :robot: Experienced with DDPMs (generative AI) to synthesize MRI images of prostate cancer.
+- :books: Led a systematic literature review to study the intersection of causality and Explainable AI.
+- :breast_feeding: Explored the applicability of prototypical part learning in medical imaging by experimenting with ProtoPNet on a breast mass classification from mammogram images.
 
-**Tools**: Git version control, Docker, SLURM-based large-scale HPC, NVIDIA DGX, DICOM/NIFTI formats.
+### **Visiting researcher at The University of Edinburgh**
+*Apr - Jun 2023*  
+**Edinburgh, UK**
 
-### Publications
+At the VIOS Collaboratory led by Prof. Tsaftaris, I have:
+- :telescope: Experimented with representation learning, causal reasoning in neural networks, and diffusion models.
+- :left_right_arrow: Collaborated in international research groups
+- :desktop_computer: Group-coded with four other PhD students for a MICCAI 2023 challenge.
 
-You can find my published research on my [Google Scholar](https://scholar.google.com/citations?hl=it&user=b4-Ad-kAAAAJ&view_op=list_works&sortby=pubdate) profile.
 
-## Some of my coding contributions 
+---
 
-- "**OOD/DG robustness**" Causality aids RObustness via COntrastive DIsentangled LEarning [(CROCODILE)](https://github.com/gianlucarloni/crocodile): In this **MICCAI 2024** paper at the UNSURE int. work., we propose a new deep learning framework to tackle domain shift bias on medical image classifiers and improve their out-of-distribution (OOD) performance, fostering domain generalization (DG). We showed how tools from causality can foster a model’s robustness via feature disentanglement, contrastive learning losses, and the injection of prior knowledge. Explore our project and read our paper to know more.
-- "**Biologically-inspired Computer Vision**" [CoCoReco](https://github.com/gianlucarloni/CoCoReco): a connectivity inspired neural network for context aware recognition. Accepted at **ECCV 2024**'s Human-inspired Computer Vision international workshop.
-- "**MRI Reconstruction**" [CMRxReconChallenge](https://github.com/VIOS-Group/CMRxReconChallenge): A group project together with other PhD students to respond to the **MICCAI 2023** challenge https://cmrxrecon.github.io/ regarding cardiac cine MR reconstruction. It was so nice to code all together! Additional contributions [here](https://github.com/VIOS-Group/CMRxRecon_Edipo_Inference) and [here](https://github.com/vios-s/CMRxRECON_Challenge_EDIPO). You can read our paper [Cine cardiac MRI reconstruction using a convolutional recurrent network with refinement](https://arxiv.org/abs/2309.13385) to discover how we performed in the MICCAI STACOM workshop 2023.
-- "**Causality/XAI**" [Boosting CNNs with knowledge of conditional asymmetries across feature maps (causality_conv_nets)](https://github.com/gianlucarloni/causality_conv_nets): Code for experimenting with causality-aware (driven) CNNs, where the network learns and exploits intrinsic information contained in image datasets regarding the causal disposition of object in the visual scene. See our **ESWA 2024** paper [Exploiting Causality Signals in Medical Images: A Pilot Study with Empirical Results](https://doi.org/10.1016/j.eswa.2024.123433) where we introduce the architecture and the "causality factor extractor". To see how such "causality-driven" neural networks can boost performance and XAI explanations in low-data scenarios (Few-Shot), check our **ICCV 2023** paper [Causality-Driven One-Shot Learning for Prostate Cancer Grading from MRI](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/html/Carloni_Causality-Driven_One-Shot_Learning_for_Prostate_Cancer_Grading_from_MRI_ICCVW_2023_paper.html)!!
-- "**Generative AI**" [(Un)conditional Denoising Diffusion Probabilistic Models](https://github.com/gianlucarloni/diffusion_models_prostatePICAI): implementation of DDPMs in PyTorch for generating synthetic medical images of prostate cancer patients. I am developing both unconditional and conditional (classifier-free guidance) generation.
-- "**Explainable AI (XAI)**" [ProtoPNet](https://github.com/andreaberti11235/ProtoPNet), with [@andreaberti11235](https://github.com/andreaberti11235): In our **ICPR 2022** [paper](https://link.springer.com/chapter/10.1007/978-3-031-37660-3_38), we investigate the application of prototypical part learning to the medical imaging field. In particular, mammographic images are used. The clinical question is to determine the malignancy of breast masses, and the goal is to assess that using Deep Learning methods, without an invasive biopsy, which still remains the gold standard today
-- [dataset_utils_scripts](https://github.com/gianlucarloni/dataset_utils_scripts), with [@andreaberti11235](https://github.com/andreaberti11235): useful scripts for deep learning pipelines with digital images. Includes: stratified group splitting for dataset preparation, code for early stopping in neural networks' training, image resize and histogram of dimensions, scripts for reading DICOM/NIFTI files and convert them in PNG images, pipelines for Data Augmentation, etc
+## :man_student: Education
 
-### Project collaborations (Italy, Greece, Portugal)
-- [ProCAncer-I](https://www.procancer-i.eu/) European Union Project funded by Horizon 2020 research and innovation programme under grant agreement No 952159
-- [TAILOR](https://tailor-network.eu/) European Union Project ICT-48 Network (GA 952215). A network of AI research excellence centre
-- [NAVIGATOR](http://navigator.med.unipi.it/) Tuscany Regional Project. An Imaging Biobank to Precisely Prevent and Predict cancer, and facilitate the Participation of oncologic patients to Diagnosis and Treatment
-- [PRAMA](http://si.isti.cnr.it/index.php/hid-project-category-list/201-project-prama) Tuscany Regional Project. Proteomics, RAdiomics & Machine learning-integrated strategy for precision medicine for Alzheimer’s
+### **PhD in Information Engineering**  
+*Pisa, Italy (Nov 2021 - Nov 2024)*  
+Thesis: “Human-aligned Deep Learning: Explainability, Causality, and Biological Inspiration.”
 
-\#DeepLearning \#MachineLearning \#ArtificialIntelligence \#MedicalImaging \#Causality \#Explainability \#GenerativeModels
+### **MSc in Biomedical Engineering**  
+*Pisa, Italy (Oct 2018 - Jul 2021)*  
+Thesis: “Study and development of advanced models integrating radiomic features and clinical data for outcome prediction in non-small cell lung cancer patients treated for brain metastases with stereotactic radiotherapy.”
+
+### **BSc in Biomedical Engineering**  
+*Bologna, Italy (Sep 2015 - Oct 2018)*  
+Thesis: “Development of a Graphical User Interface in MATLAB for the visualization and spectral analysis of EEG and ECG signals.”
+
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages:
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=matlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" />
+</div>
+
+### Python Libraries:
+<div>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/DP/DDP-0078D4?style=flat&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Biopython-0F66A0?style=flat&logo=biopython&logoColor=white" />
+</div>
+
+### Tools & Technologies:
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/DICOM-3E6F96?style=flat&logo=dicom&logoColor=white" />
+  <img src="https://img.shields.io/badge/HL7-5C6BC0?style=flat&logo=hl7&logoColor=white" />
+  <img src="https://img.shields.io/badge/SLURM-7D56A1?style=flat&logo=slurm&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA_GPU-76B900?style=flat&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=atlassian-confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
+</div>
+
+---
+
+## 🌟 Notable Projects during my PhD on AI for Medical Imaging
+
+1. **[Project Name 1](Link to GitHub Repo)**  
+   *Short description of the project and technologies used.*  
+   🚀 Features: [Key Features]  
+   💻 Built with: [Tech Stack]
+
+2. **[Project Name 2](Link to GitHub Repo)**  
+   *Short description of the project and technologies used.*  
+   🚀 Features: [Key Features]  
+   💻 Built with: [Tech Stack]
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  ![gianlucarloni](https://github-readme-stats.vercel.app/api?username=gianlucarloni&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+</div>
+
+---
+
+## 📞 Connect With Me
+
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianluca-carloni/)  
+</div>
+
+---
+
+## 🎨 Fun Fact
+
+When I’m not coding, I’m into photography, cooking, rock music, and exploring the outdoors. Here’s a peek at my stuff:  
+![📷 My photographic footprint (Instagram)](https://www.instagram.com/gianlucarloniphoto/)
+![🎧 My pop/rock playlist (Spotify)](https://open.spotify.com/playlist/1GML09OTvU2oOq686ZgV7O?si=Uh_M4HWAR0u0nrxIwjtCEQ)
+
+
+---
+
+<style>
+  body {
+    background-color: #fafafa;
+    font-family: Arial, sans-serif;
+  }
+  h1, h2, h3 {
+    color: #333;
+  }
+  h1 {
+    text-align: center;
+    font-size: 3em;
+  }
+  p {
+    font-size: 1.1em;
+    color: #555;
+    line-height: 1.5em;
+  }
+  .highlight {
+    color: #0073e6;
+  }
+  .tech-stack img {
+    margin: 5px;
+    border-radius: 5px;
+  }
+</style>
+
