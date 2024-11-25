@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile 👋
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/banner.jpg" alt="Banner Image" width="100%" />
+    <img src="https://raw.githubusercontent.com/gianlucarloni/gianlucarloni/main/assets/banner.jpg" alt="Banner Image" width="100%" />
 </div>
 
 ## 🚀 About Me
