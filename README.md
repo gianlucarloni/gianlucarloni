@@ -96,28 +96,6 @@ Thesis: “Development of a Graphical User Interface in MATLAB for the visualiza
 
 ---
 
-## 🌟 Notable Projects during my PhD on AI for Medical Imaging
-
-to do 
-
-1. **[Project Name 1](Link to GitHub Repo)**  
-   *Short description of the project and technologies used.*  
-   🚀 Features: [Key Features]  
-   💻 Built with: [Tech Stack]
-
-2. **[Project Name 2](Link to GitHub Repo)**  
-   *Short description of the project and technologies used.*  
-   🚀 Features: [Key Features]  
-   💻 Built with: [Tech Stack]
-
----
-
-## 📈 GitHub Stats
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gianlucarloni&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/gianlucarloni/github-readme-stats)
-
----
-
 ## 📞 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianluca-carloni/)  
@@ -126,6 +104,6 @@ to do
 
 ## 🎨 Fun Fact
 
-When I’m not coding, I’m into photography, cooking, rock music, and exploring the outdoors. Here’s a peek at my stuff:  
+When I’m not coding, I’m into photography, cooking, rock music,basketball, and exploring the outdoors. Here’s a peek at my stuff:  
 - [📷 My photographic footprint (Instagram)](https://www.instagram.com/gianlucarloniphoto/)
 - [🎧 My pop/rock playlist (Spotify)](https://open.spotify.com/playlist/1GML09OTvU2oOq686ZgV7O?si=Uh_M4HWAR0u0nrxIwjtCEQ)
