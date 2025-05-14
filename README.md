@@ -1,8 +1,8 @@
-## 🚀 About Me
+Hi there! I'm **Gianluca**, a passionate Research Scientist involved in **conquering cancer through AI**.
 
-Hi there! I'm **Gianluca**, a passionate Research Scientist involved in **conquering cancer through AI**
+Explore [my Google Scholar page](https://scholar.google.com/citations?hl=en&user=b4-Ad-kAAAAJ&view_op=list_works&sortby=pubdate) to see all my research contributions and understand what I have been doing lately.
 
----
+Below, you'll find additional information about me.
 
 ## 💼 Career Highlights
 
@@ -38,17 +38,15 @@ At the VIOS Collaboratory led by Prof. Tsaftaris, I have:
 - :desktop_computer: Group-coded with four other PhD students for a MICCAI 2023 challenge.
 
 
----
-
 ## :man_student: Education
 
 ### **PhD in Information Engineering**  
 *Pisa, Italy (Nov 2021 - Nov 2024)*  
-Thesis: “Human-aligned Deep Learning: Explainability, Causality, and Biological Inspiration.”
+Thesis: “Human-aligned Deep Learning: Explainability, Causality, and Biological Inspiration.” [➡️link](https://arxiv.org/abs/2504.13717)
 
 ### **MSc in Biomedical Engineering**  
 *Pisa, Italy (Oct 2018 - Jul 2021)*  
-Thesis: “Study and development of advanced models integrating radiomic features and clinical data for outcome prediction in non-small cell lung cancer patients treated for brain metastases with stereotactic radiotherapy.”
+Thesis: “Study and development of advanced models integrating radiomic features and clinical data for outcome prediction in non-small cell lung cancer patients treated for brain metastases with stereotactic radiotherapy.” [➡️link](https://etd.adm.unipi.it/theses/available/etd-06252021-173635/unrestricted/TesiCarloniGianluca.pdf)
 
 ### **BSc in Biomedical Engineering**  
 *Bologna, Italy (Sep 2015 - Oct 2018)*  
